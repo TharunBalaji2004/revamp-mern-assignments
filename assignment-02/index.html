@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASSIGNMENT 2 | index.html</title>
+    <style>
+        .hyphen-list {
+            list-style-type: "- ";
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Added Image via Local Storage</p>
+        <img src="./mountain.jpg" alt="Local Image" />
+    </div>
+    <div>
+        <p>Added Image via CDN</p>
+        <img src="https://picsum.photos/seed/picsum/500/300" alt="CDN Image" />
+    </div>
+    <div>
+        <p>Added Video via CDN</p>
+        <video width="640" height="360" controls>
+            <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+        </video>
+    </div>
+    <br>
+    <form>
+        <label for="username">Username: </label>
+        <input type="email" id="username" name="username" required />
+        <br>
+        <label for="password">Password: </label>
+        <input type="password" id="password" name="password" required />
+        <br>
+        <input type="submit" value="SUBMIT" />
+    </form>
+
+    <h4>HTML ENTRIES</h4>
+    <ul class="hyphen-list">
+        <li>Copyright: &copy;</li>
+        <li>Trademark: &reg;</li>
+        <li>Ampersand: &amp;</li>
+    </ul>
+</body>
+</html>
