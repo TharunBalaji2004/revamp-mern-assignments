@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.root {
+    padding: 6rem 2rem;
+    width: 20rem;
+    background-image: url("todolistbg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    text-align: center;
+}
+
+.root-head {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.root-subhead {
+    font-weight: bold;
+}
+
+.btn-start {
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+}
+
+.root-footer {
+    text-decoration: underline;
+}
+
+.main {
+    padding: 2rem 0rem;
+}
+
+.footer {
+    text-align: center;
+}

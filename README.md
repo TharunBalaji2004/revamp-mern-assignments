@@ -8,3 +8,4 @@ Github Pages link: https://tharunbalaji2004.github.io/revamp-mern-assignments/
 | :-----------: | :--------------: | :-------------: | :-------------: | :-----------: |
 | 1 | Basic HTML Tags | 18-Nov-2023 | [assignment-01](assignment-01/) | ❌ |
 | 2 | Image, Video and Form Tags | 20-Nov-2023 | [assignment-02](assignment-02/) | ❌ |
+| 5 | Basic Todolist | 24-Nov-2023 | [assignment-05](assignment-05/) | ❌ |
